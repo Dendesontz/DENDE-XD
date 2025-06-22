@@ -1,6 +1,6 @@
-const { malvin } = require("../malvin");
+const { Dendeson } = require("../Dendeson");
 
-malvin({
+Dendeson({
   pattern: "vv",
   alias: ["viewonce", 'retrive'],
   react: '🐳',
