@@ -1,14 +1,14 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
-  "logo": "https://files.catbox.moe/qumhu4.jpg",
-  "keywords": ["MALVIN XD"],
+  "name": "DENDE-XD",
+  "description": "Javascript WhatsApp bot made by 𝑫𝒆𝒏𝒅𝒆𝒔𝒐𝒏 𝒅𝒆𝒕𝒛",
+  "logo": "https://files.catbox.moe/zjp3f0.png",
+  "keywords": ["DENDE-XD"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
+        "description": "Put your SESSION_ID here. Make sure it starts with Dendeson~",
         "value":"",
         "required": true
         
@@ -16,7 +16,7 @@
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "DENDE-XD" 
         
     },
      "PREFIX": {
@@ -33,14 +33,14 @@
    },
      "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
+      "value": "> *© 𝑪𝒉𝒂𝒄𝒆 𝒊𝒕 𝒖𝒏𝒕𝒊𝒍 𝒚𝒐𝒖 𝒎𝒂𝒅𝒆 𝒊𝒏𝒕𝒐 𝑹𝒆𝒂𝒍*",
       "required": true
       
    }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "255675374131"
       "required": true
       
    },
