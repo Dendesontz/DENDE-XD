@@ -1,4 +1,4 @@
-const { malvin } = require("../malvin");
+const { Dendeson } = require("../mlDendeson");
 const config = require("../settings");
 const os = require("os");
 const { runtime } = require('../lib/functions');
@@ -6,7 +6,7 @@ const moment = require("moment");
 
 const ALIVE_IMG = "https://files.catbox.moe/7hqhsw.jpg";
 
-malvin({
+Dendeson({
     pattern: "alive",
     desc: "Check bot's status & uptime",
     category: "main",
@@ -33,18 +33,17 @@ malvin({
             }).join("");
 
         const msg = `
-╭──❖ 「 *${toTinyCap("malvin xd status")}* 」 ❖─
-│
-│ 👤 ʜɪ: *${pushname}*
+╭──❖ 「 *${toTinyCap("Dendeson xd status")}* 」 ❖─
+│ 👤 DENDESON-xᴅ 𝐀𝐈: *${pushname}*
 │ 🕓 ᴛɪᴍᴇ: *${currentTime}*
 │ 📆 ᴅᴀᴛᴇ: *${currentDate}*
 │ 🧭 ᴜᴘᴛɪᴍᴇ: *${uptime}*
 │ ⚙️ ᴍᴏᴅᴇ: *${config.MODE}*
-│ 🔰 ᴠᴇʀsɪᴏɴ: *${config.version}*
+│ 🔰 ᴠᴇʀsɪᴏɴ: *${config.version}**
 │
 ╰─────────❖
 
-✅ *Malvin is alive & operational!*
+✅ *Dendeson is alive & operational!*
 🚀 *System: Stable & running smooth!*
 ✨ *Thank you for checking in!*
         `.trim();
@@ -58,7 +57,7 @@ malvin({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363402507750390@newsletter',
-                    newsletterName: 'ᴍᴀʟᴠɪɴ xᴅ ᴀʟɪᴠᴇ',
+                    newsletterName: ' DENDE-XD ᴀʟɪᴠᴇ',
                     serverMessageId: 143
                 }
             }
