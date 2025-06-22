@@ -29,13 +29,13 @@
 </div>
 
 
-# MALVIN-XD Setup
+# DENDE-XD Setup
 
-### 🚀 Fork the Repository
+### 🚀 Fork the Repository Here
 
 To start, fork this repository to your own GitHub account by clicking the button below:
 
-<a href="https://github.com/XdKing2/MALVIN-XD/fork"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork MALVIN-XD" /></a>
+<a href="https://github.com/Dendesontz/DENDE-XD/fork"><img src="https://img.shields.io/github/forks/Dendesontz/DENDE-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20DENDE-XD" alt="Fork DENDE-XD" /></a>
 
 ---
 
