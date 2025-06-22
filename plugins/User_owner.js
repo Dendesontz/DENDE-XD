@@ -1,17 +1,17 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : DENDE-XD
+Creator      : Dendesontz ( Mr Lord Dendeson )
+Repo         : https//github.com/Dendesontz/DENDE-XD
+Support      : wa.me/255675364131
 */
 
 
 
 
-const { malvin } = require('../malvin');
+const { Dendeson } = require('../Dendeson');
 const config = require('../settings');
 
-malvin({
+Dendeson({
     pattern: "user",
     react: "✅", 
     desc: "Get owner number",
@@ -41,7 +41,7 @@ async (conn, mek, m, { from }) => {
         await conn.sendMessage(from, {
             image: { url: 'https://files.catbox.moe/v1rf80.jpg' }, // Image URL from your request
             caption: `
-╭┈┈❍ ᴍᴀʟᴠɪɴ xᴅ ❍
+╭┈┈❍ DENDE-XD ❍
 ┊• *Here are the user details*
 ┊• *ɴᴀᴍᴇ* : ${ownerName}
 ┊• *ɴᴜᴍʙᴇʀ*: ${ownerNumber}
