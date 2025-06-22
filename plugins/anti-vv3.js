@@ -1,9 +1,9 @@
 const axios = require('axios');
 const config = require('../settings');
-const { malvin, commands } = require('../malvin');
+const { Dendeson, commands } = require('../Dendeson');
 const util = require("util");
 
-malvin({
+Dendeson({
     pattern: "vv3",
     alias: ['retrive', '🔥'],
     desc: "Fetch and resend a ViewOnce message content (image/video).",
