@@ -45,13 +45,13 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
-</p>
+</p> 
 
-> 🟢 Pair Code Authentication
+> 🪘 𝑷𝒂𝒊𝒓 𝑪𝒐𝒅𝒆 𝑨𝒖𝒕𝒉𝒆𝒏𝒕𝒊𝒄𝒂𝒕𝒊𝒐𝒏
 
 [![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://new-session-x1e9.onrender.com/pair)
 
-> 🔵 QR Code Authentication
+> 🎙️ 𝑸𝑹 𝑪𝒐𝒅𝒆 𝑨𝒖𝒕𝒉𝒆𝒏𝒕𝒊𝒄𝒂𝒕𝒊𝒐𝒏
 
 [![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://new-session-x1e9.onrender.com/qr)
 
