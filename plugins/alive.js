@@ -1,10 +1,10 @@
-const { Dendeson } = require("../mlDendeson");
+const { Dendeson } = require("../Dendeson");
 const config = require("../settings");
 const os = require("os");
 const { runtime } = require('../lib/functions');
 const moment = require("moment");
 
-const ALIVE_IMG = "https://files.catbox.moe/7hqhsw.jpg";
+const ALIVE_IMG = "https://files.catbox.moe/zjp3f0.png";
 
 Dendeson({
     pattern: "alive",
