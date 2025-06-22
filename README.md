@@ -75,47 +75,47 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 </p>
 
 <p align="center" style="color:#777;font-size:13px;">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/warning.gif?raw=true" width="15" />
+  <img src="https://github.com/Dendesontz/DENDE-XD/blob/main/assets/warning.gif?raw=true" width="15" />
   <em>Having connection issues? Try using a 𝑽𝒊𝒕𝒖𝒂𝒍 𝑷𝒓𝒊𝒗𝒂𝒕𝒆 𝑵𝒆𝒕𝒘𝒐𝒓𝒌.</em>
 </p>
 
 
 <div align="center">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/Dendesontz/DENDE-XD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
 <h2 align="center">🚀 𝑫𝒆𝒑𝒍𝒐𝒚 𝑫𝑬𝑵𝑫𝑬-𝑿𝑫 𝑨𝒏𝒚𝒘𝒉𝒆𝒓𝒆</h2>
 
-<p align="center">Choose a platform and deploy instantly:</p>
+<p align="center">𝑺𝒆𝒍𝒆𝒄𝒕 a platform and 𝒅𝒆𝒑𝒍𝒐𝒚 𝒊𝒏𝒔𝒕𝒂𝒏𝒕𝒍𝒚:</p>
 
 <div align="left" style="margin-left: 20px; font-size: 1.05em; line-height: 2.2em;">
 
-🔵 <b>Heroku:</b>  
-<a href="https://dashboard.heroku.com/new?template=https://github.com/XdKing2/MALVIN-XD" target="_blank">
+🔵 <b>𝑯𝒆𝒓𝒐𝒌𝒖:</b>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Dendesontz/DENDE-XD" target="_blank">
   <img src="https://img.shields.io/badge/Heroku-Deploy-7A3E9D?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
 </a>
 
-💗 <b>Koyeb:</b>  
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing3/MALVIN-XD" target="_blank">
+💗 <b>𝑲𝒐𝒚𝒆𝒃:</b>  
+<a href="https://app.koyeb.com/services/deploy?type=git&repository=Dendesontz/DENDE-XD" target="_blank">
   <img src="https://img.shields.io/badge/Koyeb-Deploy-FF2D95?style=flat-square&logo=koyeb&logoColor=white" alt="Koyeb">
 </a>
 
-⚫ <b>Railway:</b>  
+⚫ <b>𝑹𝒂𝒊𝒍𝒘𝒂𝒚:</b>  
 <a href="https://railway.app/new" target="_blank">
   <img src="https://img.shields.io/badge/Railway-Deploy-121212?style=flat-square&logo=railway&logoColor=white" alt="Railway">
 </a>
 
-💚 <b>Render:</b>  
+💚 <b>𝑹𝒆𝒏𝒅𝒆𝒓:</b>  
 <a href="https://dashboard.render.com/web/new" target="_blank">
   <img src="https://img.shields.io/badge/Render-Deploy-00C7A9?style=flat-square&logo=render&logoColor=white" alt="Render">
 </a>
 
-💎 <b>Netlify:</b>  
+💎 <b>𝑵𝒆𝒕𝒍𝒊𝒇𝒚:</b>  
 <a href="https://app.netlify.com/" target="_blank">
   <img src="https://img.shields.io/badge/Netlify-Deploy-00ADB5?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
 </a>
 
-🟡 <b>TalkDrove:</b>  
+🟡 <b>𝑻𝒂𝒍𝒌𝑫𝒓𝒐𝒗𝒆:</b>  
 <a href="https://talkdrove.com" target="_blank">
   <img src="https://img.shields.io/badge/TalkDrove-Deploy-6B47FF?style=flat-square&logo=github&logoColor=white" alt="TalkDrove">
 </a>
@@ -180,10 +180,10 @@ jobs:
 
 ## 📡 𝑷𝑨𝑵𝑬𝑳 𝑫𝑬𝑷𝑳𝑶𝒀𝑴𝑬𝑵𝑻 𝑶𝑷𝑻𝑰𝑶𝑵𝑺
 
-> Get the latest MALVIN-XD bot zip file for panel-based deployment:
+> Get the latest 𝑫𝑬𝑵𝑫𝑬-𝑿𝑫 bot zip file for panel-based deployment:
 
 <div align="left">
-  <a href="https://github.com/XdKing2/MALVIN-XD/archive/refs/heads/main.zip" target="_blank">
+  <a href="https://github.com/Dendesontz/DENDE-XD/archive/refs/heads/main.zip" target="_blank">
     <img alt="Download Panel ZIP" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
   </a>
 </div>
@@ -192,7 +192,7 @@ jobs:
   <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
 </p>
 
-> ✅ Deploy to any panel service of your choice.
+> ✅ 𝑫𝒆𝒑𝒍𝒐𝒚 𝒕𝒐 𝒂𝒏𝒚 𝑷𝒂𝒏𝒆𝒍 𝑺𝒆𝒓𝒗𝒊𝒄𝒆𝒔 𝒚𝒐𝒖 𝒂𝒅𝒎𝒊𝒓𝒆.
 
 ---
 
@@ -222,8 +222,8 @@ jobs:
   </table>
 </div>
 
-> 💡 Ensure your panel has **at least 2GB RAM**  
-> 🔧 _Working on MALVIN-XD compatibility with free-tier panel hosts_
+> 💡 𝑬𝒏𝒔𝒖𝒓𝒆 your panel has **at least 2GB RAM**  
+> 🔧 _𝑾𝒐𝒓𝒌𝒊𝒏𝒈 on 𝑫𝑬𝑵𝑫𝑬-𝑿𝑫 compatibility with free-tier panel hosts_
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
@@ -247,31 +247,34 @@ jobs:
 
 > Built with ❤️ by **Malvin King**
 
-- 👑 [𝑫𝒆𝒏𝒅𝒆𝒔𝒐𝒏 𝒅𝒆𝒕𝒛] 👑 (https://github.com/XdKing2) — Creator & Maintainer  
-  - Core features, plugin manager, deployment tools, performance optimization
+- 👑 [𝑫𝒆𝒏𝒅𝒆𝒔𝒐𝒏 𝒅𝒆𝒕𝒛] 👑
+👉(https://github.com/Dendesontz) —👉𝑪𝒓𝒆𝒂𝒕𝒐𝒓 & 𝑴𝒂𝒊𝒏𝒕𝒂𝒊𝒏𝒆𝒓  
+👉Core features, plugin manager, deployment tools, performance optimization
+𝑯𝒆 𝒔𝒂𝒚𝒔
+𝑪𝒉𝒂𝒏𝒄𝒆 𝒊𝒕 𝒖𝒏𝒕𝒊𝒍 𝒚𝒐𝒖 𝒎𝒂𝒅𝒆 𝒊𝒏𝒕𝒐 𝑹𝒆𝒂𝒍
 
 ---
 
 ## 🎓 𝑷𝑹𝑶𝑱𝑬𝑪𝑻 𝑫𝑰𝑹𝑬𝑪𝑻𝑰𝑶𝑵𝑨𝑳𝑰𝑻𝒀
 
 <p align="center">
-  <a href="https://github.com/XdKing2">
-    <img src="https://github-readme-stats.vercel.app/api?username=XdKing2&show_icons=true&theme=radical" />
+  <a href="https://github.com/Dendesontz">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dendesontz&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Dendesontz/DENDE-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
 ---
 
 ## 🌐 𝑱𝑶𝑰𝑵 𝑾𝑰𝑻𝑯 𝑼𝑺 𝑶𝑵 🌍
 
-> 🔔 Stay connected for updates, feature drops, and tutorials!
+> 🔔 𝑺𝒕𝒂𝒚 𝒑𝒐𝒔𝒊𝒕𝒊𝒗𝒆 𝒘𝒊𝒕𝒉 𝑮𝒐𝒐𝒅 𝑴𝒖𝒔𝒊𝒄 𝒗𝒊𝒃𝒆𝒔 𝒘𝒊𝒕𝒉 𝑹𝒆𝒂𝒍 𝑩𝒐𝒏𝒈𝒐 𝑴𝒆𝒍𝒐𝒅𝒚!
 
-- ▶️ **YouTube: MalvinTech**  
-  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@malvintech2)
+- ▶️ **YouTube: 𝑺𝒘𝒂𝒉𝒊𝒍𝒊𝒃𝒊𝒕𝒆𝒔**  
+  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](👉👉👉 https://www.youtube.com/@bitesswahili)
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
@@ -287,7 +290,7 @@ jobs:
 # License: APACHE
 ```
 
-<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">🤝 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝒃𝒆𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒖𝒔</h2> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/stargazers"> <img src="http://reporoster.com/stars/dark/XdKing2/MALVIN-XD" alt="Stargazers repo roster for @XdKing2/MALVIN-XD"> </a> </p> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/network/members"> <img src="http://reporoster.com/forks/dark/XdKing2/MALVIN-XD" alt="Forkers repo roster for @XdKing2/MALVIN-XD"> </a> </p> 
+<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">🤝 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝒃𝒆𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒖𝒔</h2> <p align="center"> <a href="https://github.com/Dendesontz/DENDE-XD/stargazers"> <img src="http://reporoster.com/stars/dark/Dendesontz/DENDE-XD" alt="Stargazers repo roster for @Dendesontz/DENDE-XD"> </a> </p> <p align="center"> <a href="https://github.com/Dendesontz/DENDE-XD/network/members"> <img src="http://reporoster.com/forks/dark/Dendesontz/DENDE-XD" alt="Forkers repo roster for @Dendesontz/DENDE-XD"> </a> </p> 
 
 
 
