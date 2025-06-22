@@ -1,7 +1,7 @@
-const { malvin } = require('../malvin');
+const { Dendeson } = require('../Dendeson');
 const config = require("../settings");
 
-malvin({
+Dendeson({
   'on': "body"
 }, async (conn, m, store, {
   from,
