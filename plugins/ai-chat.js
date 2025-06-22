@@ -1,7 +1,7 @@
-const { malvin } = require('../malvin');
+const { Dendeson } = require('../Dendeson');
 const axios = require('axios');
 
-malvin({
+Dendeson({
     pattern: "ai",
     alias: ["bot", "dj", "gpt", "gpt4", "bing"],
     desc: "Chat with an AI model",
@@ -30,7 +30,7 @@ async (conn, mek, m, { from, args, q, reply, react }) => {
     }
 });
 
-malvin({
+Dendeson({
     pattern: "openai",
     alias: ["chatgpt", "gpt3", "open-gpt"],
     desc: "Chat with OpenAI",
@@ -59,7 +59,7 @@ async (conn, mek, m, { from, args, q, reply, react }) => {
     }
 });
 
-malvin({
+Dendeson({
     pattern: "deepseek",
     alias: ["deep", "seekai"],
     desc: "Chat with DeepSeek AI",
