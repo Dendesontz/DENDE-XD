@@ -273,8 +273,8 @@ jobs:
 
 > 🔔 𝑺𝒕𝒂𝒚 𝒑𝒐𝒔𝒊𝒕𝒊𝒗𝒆 𝒘𝒊𝒕𝒉 𝑮𝒐𝒐𝒅 𝑴𝒖𝒔𝒊𝒄 𝒗𝒊𝒃𝒆𝒔 𝒘𝒊𝒕𝒉 𝑹𝒆𝒂𝒍 𝑩𝒐𝒏𝒈𝒐 𝑴𝒆𝒍𝒐𝒅𝒚!
 
-- ▶️ **YouTube: biteswahili**  
-  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)https://www.youtube.com/@bitesswahili)
+- ▶️ **YouTube: MalvinTech**  
+  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@malvintech2)
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
