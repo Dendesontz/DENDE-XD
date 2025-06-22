@@ -2,7 +2,7 @@
 
 </div>
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
+  <img src="https://files.catbox.moe/lf0w9j.png" />
 </p>
 
 <p align="center">
