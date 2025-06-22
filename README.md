@@ -84,7 +84,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
   <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
-<h2 align="center">🚀 Deploy MALVIN-XD Anywhere</h2>
+<h2 align="center">🚀 𝑫𝒆𝒑𝒍𝒐𝒚 𝑫𝑬𝑵𝑫𝑬-𝑿𝑫 𝑨𝒏𝒚𝒘𝒉𝒆𝒓𝒆</h2>
 
 <p align="center">Choose a platform and deploy instantly:</p>
 
@@ -131,7 +131,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 <details>
 
-<b><strong><summary align="center" style="color: Yello;">Deploy Malvin On Workflow</summary></strong></b>
+<b><strong><summary align="center" style="color: Yello;">Deploy 𝑫𝒆𝒏𝒅𝒆 On Workflow</summary></strong></b>
 <p style="text-align: center; font-size: 1.2em;">
  
 <h8>Copy the workflow codes and then fork the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes rename main.yml to deploy.yml and save the file</h8>
@@ -231,11 +231,11 @@ jobs:
 
 ---
 
-## ⚠️ 𝑾𝑨𝑹𝑵𝑰𝑵𝑮
+## ⚠️ 𝑾𝑨𝑹𝑵𝑰𝑵𝑮!𝑾𝑨𝑹𝑵𝑰𝑵𝑮!𝑾𝑨𝑹𝑵𝑰𝑵𝑮!🫵
 
-- ❗ MALVIN-XD is **not affiliated with WhatsApp Inc.**
-- 🚫 Misuse may lead to account bans. Use responsibly.
-- 🛑 Cloning, redistributing, or modifying **without proper credit** is strictly prohibited.
+- 1️⃣ 𝑫𝑬𝑵𝑫𝑬-𝑿𝑫 is **not affiliated with WhatsApp Inc.**
+- 2️⃣ Misuse may lead to account bans. Use responsibly.
+- 3️⃣ Cloning, redistributing, or modifying **without proper credit** is strictly prohibited.
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
@@ -247,12 +247,12 @@ jobs:
 
 > Built with ❤️ by **Malvin King**
 
-- 👤 [Malvin King](https://github.com/XdKing2) — Creator & Maintainer  
+- 👑 [𝑫𝒆𝒏𝒅𝒆𝒔𝒐𝒏 𝒅𝒆𝒕𝒛] 👑 (https://github.com/XdKing2) — Creator & Maintainer  
   - Core features, plugin manager, deployment tools, performance optimization
 
 ---
 
-## 🗃️ 𝑷𝑹𝑶𝑱𝑬𝑪𝑻 𝑫𝑰𝑹𝑬𝑪𝑻𝑰𝑶𝑵𝑨𝑳𝑰𝑻𝒀
+## 🎓 𝑷𝑹𝑶𝑱𝑬𝑪𝑻 𝑫𝑰𝑹𝑬𝑪𝑻𝑰𝑶𝑵𝑨𝑳𝑰𝑻𝒀
 
 <p align="center">
   <a href="https://github.com/XdKing2">
@@ -266,7 +266,7 @@ jobs:
 
 ---
 
-## 🌐 𝑱𝑶𝑰𝑵 𝑾𝑰𝑻𝑯 𝑼𝑺 𝑶𝑵
+## 🌐 𝑱𝑶𝑰𝑵 𝑾𝑰𝑻𝑯 𝑼𝑺 𝑶𝑵 🌍
 
 > 🔔 Stay connected for updates, feature drops, and tutorials!
 
@@ -279,7 +279,7 @@ jobs:
 
 ---
 
-## 👑 𝑫𝑬𝑵𝑫𝑬𝑺𝑶𝑵 𝑺𝑻𝑨𝑻𝑼𝑺
+## 👑 𝑫𝑬𝑵𝑫𝑬𝑺𝑶𝑵 𝑺𝑻𝑨𝑻𝑼𝑺 👑
 
 ```diff
 + Project Status: Active
@@ -287,7 +287,7 @@ jobs:
 # License: APACHE
 ```
 
-<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/stargazers"> <img src="http://reporoster.com/stars/dark/XdKing2/MALVIN-XD" alt="Stargazers repo roster for @XdKing2/MALVIN-XD"> </a> </p> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/network/members"> <img src="http://reporoster.com/forks/dark/XdKing2/MALVIN-XD" alt="Forkers repo roster for @XdKing2/MALVIN-XD"> </a> </p> 
+<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">🤝 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝒃𝒆𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒖𝒔</h2> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/stargazers"> <img src="http://reporoster.com/stars/dark/XdKing2/MALVIN-XD" alt="Stargazers repo roster for @XdKing2/MALVIN-XD"> </a> </p> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/network/members"> <img src="http://reporoster.com/forks/dark/XdKing2/MALVIN-XD" alt="Forkers repo roster for @XdKing2/MALVIN-XD"> </a> </p> 
 
 
 
