@@ -1,21 +1,21 @@
 {
-  "bot-name": "MALVIN-XD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
-  "logo": "https://files.catbox.moe/juxfce.jpg",
+  "bot-name": "DENDE-XD",
+  "description": "𝑪𝒉𝒂𝒄𝒆 𝒊𝒕 𝒖𝒏𝒕𝒊𝒍 𝒚𝒐𝒖 𝒎𝒂𝒅𝒆 𝒊𝒏𝒕𝒐 𝑹𝒆𝒂𝒍",
+  "logo": "https://files.catbox.moe/zjp3f0.png",
   "keywords": ["bot"],
   "documentation-link": "https://new-session-lfgw.onrender.com/",
-    "owner-verification":"malvink003@gmail.com",
+    "owner-verification":"dendesonomaryjr2@gmail.com",
   
   "env": {
     "SESSION_ID": {
-      "description": "Must Start with 'malvin~'",
+      "description": "Must Start with 'Dendeson~'",
       "required": true,
       "value": ""
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ-xᴅ"      
+        "value": "DENDE-XD"      
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
@@ -32,12 +32,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "𝑫𝒆𝒏𝒅𝒆𝒔𝒐𝒏 𝒅𝒆𝒕𝒛"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263714757857"
+      "value": "255675364131"
     },
     
     "PRESENCE": {
