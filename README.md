@@ -178,7 +178,7 @@ jobs:
   <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
 </p>
 
-## 📡 PANEL DEPLOYMENT OPTIONS
+## 📡 𝑷𝑨𝑵𝑬𝑳 𝑫𝑬𝑷𝑳𝑶𝒀𝑴𝑬𝑵𝑻 𝑶𝑷𝑻𝑰𝑶𝑵𝑺
 
 > Get the latest MALVIN-XD bot zip file for panel-based deployment:
 
@@ -196,7 +196,7 @@ jobs:
 
 ---
 
-### 🛠️ Recommended Hosting Panels
+### 🛠️ 𝑹𝒆𝒄𝒄𝒐𝒎𝒆𝒏𝒅𝒆𝒅 𝒉𝒐𝒔𝒕𝒊𝒏𝒈 𝑷𝒂𝒏𝒆𝒍𝒔
 
 <div align="center">
   <table>
@@ -231,7 +231,7 @@ jobs:
 
 ---
 
-## ⚠️ DISCLAIMER
+## ⚠️ 𝑾𝑨𝑹𝑵𝑰𝑵𝑮
 
 - ❗ MALVIN-XD is **not affiliated with WhatsApp Inc.**
 - 🚫 Misuse may lead to account bans. Use responsibly.
@@ -243,7 +243,7 @@ jobs:
 
 ---
 
-## 💡 CREDITS & CONTRIBUTORS
+## 💡 𝑪𝑹𝑬𝑫𝑰𝑻𝑺 𝑨𝑵𝑫 𝑨𝑪𝑲𝑵𝑶𝑳𝑬𝑫𝑮𝑴𝑬𝑵𝑻
 
 > Built with ❤️ by **Malvin King**
 
@@ -252,7 +252,7 @@ jobs:
 
 ---
 
-## 🗃️ PROJECT ARCHITECTS
+## 🗃️ 𝑷𝑹𝑶𝑱𝑬𝑪𝑻 𝑫𝑰𝑹𝑬𝑪𝑻𝑰𝑶𝑵𝑨𝑳𝑰𝑻𝒀
 
 <p align="center">
   <a href="https://github.com/XdKing2">
@@ -266,7 +266,7 @@ jobs:
 
 ---
 
-## 🌐 JOIN OUR SUPPORT CHANNELS
+## 🌐 𝑱𝑶𝑰𝑵 𝑾𝑰𝑻𝑯 𝑼𝑺 𝑶𝑵
 
 > 🔔 Stay connected for updates, feature drops, and tutorials!
 
@@ -279,7 +279,7 @@ jobs:
 
 ---
 
-## 👑 MALVIN STATUS
+## 👑 𝑫𝑬𝑵𝑫𝑬𝑺𝑶𝑵 𝑺𝑻𝑨𝑻𝑼𝑺
 
 ```diff
 + Project Status: Active
