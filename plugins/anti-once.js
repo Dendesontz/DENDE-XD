@@ -1,6 +1,6 @@
-const { malvin } = require("../malvin");
+const { Dendeson } = require("../Dendeson");
 
-malvin({
+Dendeson({
   pattern: "vv2",
   alias: ["wah", "ohh", "oho", "🙂", "nice", "ok"],
   desc: "Owner Only - retrieve quoted message back to user",
