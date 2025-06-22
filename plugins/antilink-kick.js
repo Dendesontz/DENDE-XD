@@ -1,4 +1,4 @@
-const { malvin } = require('../malvin');
+const { Dendeson } = require('../Dendeson');
 const config = require("../settings");
 
 // Anti-Link System
@@ -26,7 +26,7 @@ const linkPatterns = [
   /https?:\/\/(?:www\.)?medium\.com\/\S+/gi
 ];
 
-malvin({
+Dendeson({
   'on': "body"
 }, async (conn, m, store, {
   from,
