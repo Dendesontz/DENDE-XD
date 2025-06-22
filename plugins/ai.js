@@ -1,15 +1,15 @@
 
 
 const axios = require("axios");
-const { malvin } = require("../malvin");
+const { Dendeson } = require("../Dendeson");
 
-malvin({
-    pattern: "malvin",
-    alias: "malvin",
+Dendeson({
+    pattern: "Dendeson",
+    alias: "Dendeson",
     desc: "Interact with ChatGPT using the XD Api.",
     category: "ai",
     react: "🤖",
-    use: ".malvin <your query>",
+    use: ".Dendeson <your query>",
     filename: __filename,
 }, async (conn, mek, m, { from, args, q, reply }) => {
     try {
@@ -37,7 +37,7 @@ malvin({
 
         // Vérification de la structure de la réponse
         if (!response || !response.data || !response.data.result) {
-            return reply("❌ No response received from the Malvin API. Please try again later.");
+            return reply("❌ No response received from the Dendeson API. Please try again later.");
         }
 
         // Extraire uniquement le texte de la réponse (le prompt)
@@ -63,7 +63,7 @@ malvin({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363402507750390@newsletter',
-                    newsletterName: '*MALVIN 𝐀𝐈*',
+                    newsletterName: '*DENDESON 𝐀𝐈*',
                     serverMessageId: 143
                 }
             }
@@ -90,7 +90,7 @@ Please report this issue or try again later.
         return reply(errorMessage);
     }
 });
-malvin({
+Dendeson({
     pattern: "llama3",
     desc: "Get a response from Llama3 AI using the provided prompt.",
     category: "ai",
@@ -138,7 +138,7 @@ malvin({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363402507750390@newsletter',
-                    newsletterName: 'ᴍᴀʟᴠɪɴ-xᴅ 𝐀𝐈',
+                    newsletterName: 'DENDESON-xᴅ 𝐀𝐈',
                     serverMessageId: 143
                 }
             }
