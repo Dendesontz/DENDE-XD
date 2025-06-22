@@ -31,7 +31,7 @@
 
 # 𝑫𝑬𝑵𝑫𝑬-𝑿𝑫 Setup
 
-### ✍️ 𝑭𝑶𝑹𝑲 𝒀𝑶𝑼𝑹𝑬 𝑹𝑬𝑷𝑶𝑺𝑰𝑻𝑶𝑹𝒀 𝑯𝑬𝑹𝑬....🇹🇿
+### ✍️ 𝑭𝑶𝑹𝑲 𝒀𝑶𝑼𝑹 𝑹𝑬𝑷𝑶𝑺𝑰𝑻𝑶𝑹𝒀 𝑯𝑬𝑹𝑬....🇹🇿
 
 To start, fork this repository to your own GitHub account by clicking the button below:
 
@@ -39,7 +39,7 @@ To start, fork this repository to your own GitHub account by clicking the button
 
 ---
 
-### 🔐 Step 2: Get Your Session ID
+### 👉 Step 2: 𝑮𝒂𝒊𝒏 Your Session 𝑰𝑫 𝑯𝑬𝑹𝑬👇
 
 Authenticate using **one** of the methods below to generate your `Session ID`.
 
@@ -57,7 +57,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 
 
-#### 🧩 Session App
+#### 🪘 𝑺𝒆𝒔𝒔𝒊𝒐𝒏 𝑨𝒑𝒑
 
 [![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://new-session-x1e9.onrender.com)
 
@@ -76,7 +76,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 <p align="center" style="color:#777;font-size:13px;">
   <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/warning.gif?raw=true" width="15" />
-  <em>Having connection issues? Try using a VPN.</em>
+  <em>Having connection issues? Try using a 𝑽𝒊𝒕𝒖𝒂𝒍 𝑷𝒓𝒊𝒗𝒂𝒕𝒆 𝑵𝒆𝒕𝒘𝒐𝒓𝒌.</em>
 </p>
 
 
