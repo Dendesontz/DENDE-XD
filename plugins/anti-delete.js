@@ -1,7 +1,7 @@
-const { malvin } = require('../malvin');
+const { Dendeson } = require('../Dendeson');
 const { getAnti, setAnti } = require('../data/antidel');
 
-malvin({
+Dendeson({
     pattern: "antidelete",
     alias: ['antidel', 'del'],
     desc: "Toggle anti-delete feature",
