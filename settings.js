@@ -30,7 +30,7 @@ LINK_WHITELIST: "youtube.com,github.com",
         AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
 
-        AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "* 𝑯𝒊 𝒘𝒊𝒔𝒉 𝒀𝒐𝒖𝒓 𝑭𝒊𝒏𝒆𝒍𝒚 𝒊 𝒉𝒂𝒗𝒆 𝒔𝒆𝒆𝒏 𝒚𝒐𝒖𝒓 𝒔𝒕𝒂𝒕𝒖𝒔 ...𝒃𝒖𝒕 𝒊 𝒂𝒔𝒌 𝒚𝒐𝒖 𝒕𝒐 𝒔𝒖𝒑𝒑𝒐𝒓𝒕 𝒎𝒆 𝒃𝒚 𝒔𝒖𝒃𝒔𝒄𝒓𝒊𝒃𝒊𝒏𝒈/𝒔𝒉𝒂𝒓𝒊𝒏𝒈/𝑳𝒊𝒌𝒊𝒏𝒈 𝒎𝒚 𝒔𝒐𝒏𝒈𝒔 𝒗𝒊𝒅𝒆𝒐/ 𝒂𝒍𝒍 𝒕𝒐𝒈𝒆𝒕𝒉𝒆𝒓 𝒎𝒚 𝒀𝒐𝒖𝒕𝒖𝒃𝒆 𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒈𝒐𝒆𝒔 𝒘𝒊𝒕𝒉 𝒏𝒂𝒎𝒆 𝒔𝒊𝒕𝒆𝒔𝒔𝒘𝒂𝒉𝒊𝒍𝒊 𝒐𝒓 𝒓𝒆𝒂𝒄𝒉 𝒊𝒕 𝒃𝒚 𝒄𝒍𝒊𝒄𝒌𝒊𝒏𝒈 𝒕𝒉𝒊𝒔 𝒍𝒊𝒏𝒌 👉👉👉 https://www.youtube.com/@bitesswahili 𝑳𝒂𝒔𝒕𝒍𝒚 𝒘𝒊𝒔𝒉 𝒉𝒂𝒗𝒆 𝒂 𝒈𝒐𝒐𝒅 𝒕𝒊𝒎𝒆*",
+        AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "JE WAJUA 𝑶 𝒎𝒊𝒔𝒔 𝒀𝒐𝒖 ipo njiani kuja....? hii ngoma ni Kaliiii vibayaa mnooo cha kufanya Just subscribe hapaa 👉👉👉https://youtu.be/_bbUztYCMnc?si=oZtDDauF_3JZ72fV And then subiriii Dudeeeeeeeee ",
 // set the auto reply massage on status reply  
 
 
