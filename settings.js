@@ -43,7 +43,7 @@ LINK_WHITELIST: "youtube.com,github.com",
       ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 
-      MENTION_REPLY: process.env.MENTION_REPLY || "true",
+      MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
 
      MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/zjp3f0.png",
@@ -59,7 +59,7 @@ LINK_WHITELIST: "youtube.com,github.com",
         STICKER_NAME: process.env.STICKER_NAME || "DENDE-XD",
 // type sticker pack name 
 
-        CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
+        CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react  
   
       CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "🕳️,👑,🎓,🫶,🌎,🇿🇦,🇹🇿,✍️,🫡,🪘,🎙️,💫,🔥,🤝,🫂,🎶,☠️,👽,🌒",
